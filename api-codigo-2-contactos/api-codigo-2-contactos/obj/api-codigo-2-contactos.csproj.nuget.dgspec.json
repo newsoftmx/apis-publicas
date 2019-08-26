@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\cursos2\\apis-publicas\\api-codigo-2-contactos\\api-codigo-2-contactos\\api-codigo-2-contactos.csproj": {}
+  },
+  "projects": {
+    "C:\\cursos2\\apis-publicas\\api-codigo-2-contactos\\api-codigo-2-contactos\\api-codigo-2-contactos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\cursos2\\apis-publicas\\api-codigo-2-contactos\\api-codigo-2-contactos\\api-codigo-2-contactos.csproj",
+        "projectName": "api-codigo-2-contactos",
+        "projectPath": "C:\\cursos2\\apis-publicas\\api-codigo-2-contactos\\api-codigo-2-contactos\\api-codigo-2-contactos.csproj",
+        "packagesPath": "C:\\Users\\vibeco\\.nuget\\packages\\",
+        "outputPath": "C:\\cursos2\\apis-publicas\\api-codigo-2-contactos\\api-codigo-2-contactos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vibeco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

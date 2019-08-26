@@ -1,0 +1,6 @@
+C:\Users\elvic\source\repos\SOA_MFC\BusinessModel\bin\Release\BusinessModel.dll
+C:\Users\elvic\source\repos\SOA_MFC\BusinessModel\bin\Release\BusinessModel.pdb
+C:\Users\elvic\source\repos\SOA_MFC\BusinessModel\obj\Release\BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\elvic\source\repos\SOA_MFC\BusinessModel\obj\Release\BusinessModel.dll
+C:\Users\elvic\source\repos\SOA_MFC\BusinessModel\obj\Release\BusinessModel.pdb
+C:\Users\elvic\source\repos\SOA_MFC\BusinessModel\obj\Release\BusinessModel.csprojAssemblyReference.cache

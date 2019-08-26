@@ -1,0 +1,6 @@
+C:\Users\elvic\source\repos\SOA_MFC\BusenessLogic\bin\Debug\BusenessLogic.dll
+C:\Users\elvic\source\repos\SOA_MFC\BusenessLogic\bin\Debug\BusenessLogic.pdb
+C:\Users\elvic\source\repos\SOA_MFC\BusenessLogic\obj\Debug\BusenessLogic.csprojResolveAssemblyReference.cache
+C:\Users\elvic\source\repos\SOA_MFC\BusenessLogic\obj\Debug\BusenessLogic.csproj.CoreCompileInputs.cache
+C:\Users\elvic\source\repos\SOA_MFC\BusenessLogic\obj\Debug\BusenessLogic.dll
+C:\Users\elvic\source\repos\SOA_MFC\BusenessLogic\obj\Debug\BusenessLogic.pdb
